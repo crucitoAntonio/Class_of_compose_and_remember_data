@@ -1,1 +1,24 @@
-/build
+# Gradle files
+.gradle/
+build/
+
+# Android Studio files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Local configuration file
+local.properties
+
+# SDK and NDK caches
+/.cxx/
+
+# Personal or sensitive files
+*.keystore
+
+# Generated files
+*.apk
+*.aar
+*.jar
