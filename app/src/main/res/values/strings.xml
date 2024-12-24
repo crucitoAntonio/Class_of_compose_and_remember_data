@@ -1,8 +1,29 @@
 <resources>
-  <string name="app_name">Bullseye</string>
+  <string name="app_name">Dartboard</string>
   <string name="text_title_game_screen">PUT THE BULLEYE AS CLOSE AS YOU CAN TO</string>
   <string name="text_label_min_value">1</string>
   <string name="text_button_game_screen">HIT ME</string>
   <string name="text_label_max_value">100</string>
   <string name="text_result_dialog_message">The slider\'s value is %1$d.\nYou scored %2$d point this round.</string>
+  <string name="text_star_over">star over</string>
+  <string name="text_info">info</string>
+  <string name="text_restart_button">restart</string>
+  <string name="text_score">score</string>
+  <string name="text_round">round</string>
+  <string name="text_perfect">Perfect!</string>
+  <string name="text_almost_had_it">You almost had it!</string>
+  <string name="text_not_bad">Not bad.</string>
+  <string name="text_are_you_even_trying">Are you even trying?</string>
+  <string name="text_slider_thumb">Slider Thumb</string>
+  <string name="text_about_bullseye_title">About BullsEye</string>
+  <string name="text_back">Go Back</string>
+  <string name="text_about_title">🎉 Bullseye 🎉</string>
+  <string name="text_about_bullseye">
+    Welcome to Bullseye! 🎯\n\n
+    Bullseye is an exciting and engaging game where precision meets fun. The objective is simple: aim for the perfect score by dragging the slider as close as possible to the target value. It\'s not just a game of chance – it\'s a test of your focus and skill.\n\n
+    In Bullseye, you\'ll earn points based on how accurate your guesses are. The closer you get to the target, the more points you win! Challenge yourself to beat your high score, or compete with friends and family for fame and bragging rights.\n\n
+    Whether you\'re looking for a quick distraction or a way to sharpen your precision skills, Bullseye has something for everyone. Ready to take aim and become a master?\n\n
+    Let the game begin!
+</string>
+
 </resources>

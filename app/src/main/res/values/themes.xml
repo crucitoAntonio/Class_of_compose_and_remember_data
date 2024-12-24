@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <style name="Theme.Bullseye" parent="android:Theme.Material.Light.NoActionBar" />
+  <style name="Theme.Bullseye" parent="android:Theme.Material.Light.NoActionBar.Fullscreen" />
+  <!-- Splash Screen Theme -->
+  <style name="Theme.CustomSplashScreenTheme" parent="Theme.SplashScreen">
+    <item name="windowSplashScreenBackground">@color/white</item>
+    <item name="windowSplashScreenAnimatedIcon">@drawable/target_shooting</item>
+    <item name="postSplashScreenTheme">@style/Theme.Bullseye</item>
+  </style>
+
 </resources>
